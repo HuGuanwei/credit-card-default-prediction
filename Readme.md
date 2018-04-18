@@ -23,19 +23,19 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
 
 #### Categorical Features Exploration
 
-<img src="visualization\categorical.PNG"  style="zoom:70%" />
+<img src="visualization\categorical.png"  style="zoom:70%" />
 
 
 
 #### Parallel Coordinates Visualization 
 
-<img src="visualization\parallel_coordinates (1).PNG"  style="zoom:80%" />
+<img src="visualization\parallel_coordinates (1).png"  style="zoom:80%" />
 
 
 
 #### Correlation Matrix
 
-<img src="visualization\corr.png"  style="zoom:80%" />
+<img src="visualization\corr.PNG"  style="zoom:80%" />
 
 Note correlation coefficients between `PAY_i` and `PAY_j`, `BILL_AMTi` and `BILL_AMTj`.
 
@@ -44,4 +44,4 @@ Note correlation coefficients between `PAY_i` and `PAY_j`, `BILL_AMTi` and `BILL
 
 
 #### Performance
-<img src="visualization\performance.png"  style="zoom:80%" />
+<img src="visualization\performance.PNG"  style="zoom:80%" />
