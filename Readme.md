@@ -29,7 +29,7 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
 
 #### Parallel Coordinates Visualization 
 
-<img src="visualization\parallel_coordinates (1).png"  style="zoom:80%" />
+<img src="visualization\parallel_coordinates (1).png"  style="zoom:60%" />
 
 
 
