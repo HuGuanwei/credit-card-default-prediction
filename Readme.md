@@ -44,7 +44,4 @@ Note correlation coefficients between `PAY_i` and `PAY_j`, `BILL_AMTi` and `BILL
 
 
 #### Performance
-
-
-
 <img src="visualization\performance.png"  style="zoom:80%" />
