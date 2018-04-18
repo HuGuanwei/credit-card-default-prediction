@@ -36,7 +36,7 @@ This research employed a binary variable, default payment (Yes = 1, No = 0), as 
 
 #### Correlation Matrix
 
-<img src="visualization\corr.PNG"  style="zoom:80%" />
+<img src="visualization\corr.png"  style="zoom:80%" />
 
 Note correlation coefficients between `PAY_i` and `PAY_j`, `BILL_AMTi` and `BILL_AMTj`.
 
@@ -62,7 +62,7 @@ Note correlation coefficients between `PAY_i` and `PAY_j`, `BILL_AMTi` and `BILL
 
 
 #### Performance
-<img src="visualization\performance.PNG"  style="zoom:80%" />
+<img src="visualization\performance.png"  style="zoom:80%" />
 
 
 
